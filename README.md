@@ -1,4 +1,4 @@
-Black and white Nonogram group project
+Black and white Nonogram 
 ==============================
 
 A nonogram is a picture logic puzzle. We start with an empty grid with white cells. The purpose of the puzzle is to color the right cells black such that the combination between numbers at the side and on top of the grid is correct. Below we have a simple example of a Nonogram and it's solution.
